@@ -1,6 +1,6 @@
 # Humanizing music
 
-To humanize your music, see our plugins on maxforlive.com for the professional audio software Live by Ableton AG:
+To humanize your music, see our plugins on maxforlive.com for Ableton Live, a professional audio software:
 * [Group Humanizer](http://www.maxforlive.com/library/device/2466/group-humanizer), >16,000 downloads
 * [Humanizer](http://www.maxforlive.com/library/device/2144/humanizer), >9,500 downloads
 
